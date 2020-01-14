@@ -18,7 +18,7 @@ favicon: favicon.ico
 repository: https://china-actor.github.io/actor.github.io
 github_url: https://china-actor.github.io/actor.github.io
 url: https://china-actor.github.io/actor.github.io
-enforce_ssl: ityouknow.com
+enforce_ssl: china-actor.github.io/actor.github.io
 
 ## Gem
 plugins:
